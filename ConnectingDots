@@ -1,0 +1,25 @@
+Creating a Personal website
+
+Home|Articles|Legends|Gallery|Contact Us
+
+Planning to use following Technologies
+
+1. Frontend: HTML5, CSS3, Jquery AngularJs4, 
+2. Backend: Spring MVC, Spring REST, Apache Solr, 
+3. DB: MySql 
+4. Servers: NGINX Server, Docker/Kuberneates
+
+1. Home.html
+2. Articles.html
+3. Legends.html
+4. Gallery.html
+5. ContactUs.html
+
+#####################################################################################################################################
+                                                    1.Home.html
+#####################################################################################################################################
+
+-> Display Latest Updates on website
+-> Display Thought for the day
+-> Display Word for the day
+-> Latest News on Technology
