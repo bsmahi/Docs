@@ -9,9 +9,9 @@ Home|Articles|Legends|Gallery|Contact Us
 Planning to use following Technologies
 
 1. Frontend: HTML5, CSS3, Jquery AngularJs4, 
-2. Backend: Spring MVC, Spring REST, Apache Solr, 
+2. Backend: Spring Core, MVC, REST, Apache Solr, Logging framework
 3. DB: MySql 
-4. Servers: NGINX Server, Docker/Kuberneates
+4. Servers: NGINX Server, Docker/Kuberneates/ OpenShift
 
 1. Home.html
 2. Articles.html
