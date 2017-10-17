@@ -76,5 +76,6 @@ Spring Webflow file
 
 </flow>
         
-In this flow file, we set the start state to a state called welcome. Then we defined the view state for the welcome state. In this welcome state we have two different actions. These actions are defined in transition states. Based on the input from the user, request will be navigated to either a ‘cancelled’ state or a ‘finish’ state. 
+In this flow file, we set the start state to a state called welcome. Then we defined the view state for the welcome state.
+In this welcome state we have two different actions. These actions are defined in transition states. Based on the input from the user, request will be navigated to either a ‘cancelled’ state or a ‘finish’ state. 
 Then we defined both the cancelled and finish states. 
