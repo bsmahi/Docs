@@ -1,0 +1,7 @@
+Difference between ROLE_ANONYMOUS and IS_AUTHENTICATED_ANONMOUSLY
+
+Both are effectively the samething when defining access controls. 
+
+https://docs.spring.io/spring-security/site/docs/3.0.x/reference/anonymous.html
+
+
