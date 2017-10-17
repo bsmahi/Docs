@@ -25,8 +25,7 @@ Please see below the Spring context file with Webflow configurations.
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
         http://www.springframework.org/schema/webflow-config
-        http://www.springframework.org/schema/webflow-config/spring-webflow-config-2.0.xsd">
-        
+        http://www.springframework.org/schema/webflow-config/spring-webflow-config-2.0.xsd">       
         
         <mvc:annotation-driven/>
         
@@ -44,7 +43,38 @@ Please see below the Spring context file with Webflow configurations.
         
         <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerAdapter">
             <property name="flowExecutor" ref="flowExecutor"/>
-        </bean>
-       
-                            
+        </bean>             
 </beans>
+
+Here for any incoming request, the Spring Webflow registry will be checked to see whether any guided flows are configured. 
+That is why we make the order for Spring Webflow ‘0’.  The flow registry contains all the flows available in the application. 
+If a guided flow is found then the flow executor is initiated.
+
+Next we will see the Spring Webflow file. Each guided flow has a separate file in the application. Here we will see a simple Webflow example. In order to start the flow, you can click on a link which will invoke the correct flow file.
+
+<a href="welcome-flow.do">Start welcome flow</a>
+Spring Webflow file
+
+<?xml version="1.0" encoding="UTF-8"?>
+<flow xmlns="http://www.springframework.org/schema/webflow"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.springframework.org/schema/webflow
+                          http://www.springframework.org/schema/webflow/spring-webflow-2.0.xsd"
+                          
+                          
+        <start-state="welcome">
+    
+        <view-state id="welcome" view="/welcome.jsp">
+            <transition on="continue" to="finish"/>
+            <transition on="cancel" to="cancelled"/>
+        </view-state>
+        
+        <end-state id="cancelled" view="/cancelled.jsp"/>
+        
+        <end-state id="finish" view="/finish.jsp"/>
+    
+
+</flow>
+        
+In this flow file, we set the start state to a state called welcome. Then we defined the view state for the welcome state. In this welcome state we have two different actions. These actions are defined in transition states. Based on the input from the user, request will be navigated to either a ‘cancelled’ state or a ‘finish’ state. 
+Then we defined both the cancelled and finish states. 
