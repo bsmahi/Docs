@@ -1,6 +1,10 @@
 Difference between ROLE_ANONYMOUS and IS_AUTHENTICATED_ANONMOUSLY
 
-Both are effectively the samething when defining access controls. 
+Both are effectively the samething when defining access controls. AuthenticatedVoter uses an AuthenticationTrustResolver to process this 
+particular configuration attribute and grant access to anonymous users. 
+The AuthenticatedVoter approach is more powerful, since it allows you to differentiate between anonymous, rememberme and fully-authenticated
+users. If you don't need this functionality though, then you can stick with ROLE_ANONYMOUS, which will be processed by Spring Security's standard
+RoleVoter.
 
 https://docs.spring.io/spring-security/site/docs/3.0.x/reference/anonymous.html
 
