@@ -59,10 +59,3 @@ Patterns of Enterprise Application Architecture - Martin Fowler,
 Refactoring: Improving the Design of Existing Code - Martin Fowler, Kent Beck
 
 SHA256:V1gwrv7eEvsz9g1jg272amGU53Wb5LRXKWF9QGaAbbw - Github SSH Key
-
-
-The Claim ID Generated Is : W1257435 
-
-
-\\BLTACCELLO\Shared Drive\DNS
-9503472220 - manas
