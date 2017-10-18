@@ -1,0 +1,68 @@
+http://blog.sonatype.com/2009/04/how-to-convert-from-ant-to-maven-in-5-minutes/
+
+https://zeroturnaround.com/rebellabs/java-build-tools-part-2-a-decision-makers-comparison-of-maven-gradle-and-ant-ivy/
+
+https://dzone.com/articles/gradle-maven-perspective?fromrel=true
+
+https://dzone.com/articles/gradle-vs-maven?fromrel=true
+
+http://akhikhl.github.io/gretty-doc/Gretty-configuration.html
+
+https://gradle.org/maven-vs-gradle
+
+https://spring.io/understanding/REST
+
+https://dzone.com/storage/assets/487673-rc024-corejava.pdf
+
+https://dzone.com/articles/an-introduction-to-jax-rs-annotations-part-1
+
+http://springfox.github.io/springfox/docs/current/
+
+https://swagger.io/
+https://dzone.com/articles/rest-api-documentation-generators-for-java
+
+https://stackoverflow.com/questions/30288878/java-fastxml-json-library-how-to-parse-a-nested-json-structure
+
+https://nuagenetworks.github.io/vsd-api-documentation/v4_0/enterprise.html 
+
+https://dzone.com/refcardz/getting-started-with-spring-boot-and-microservices
+
+http://www.vogella.com/tutorials/Nexus/article.html
+https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
+https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/part1/chapter1/introduction_to_rest.html
+https://dzone.com/articles/serverless-and-api-gateways-1
+http://www.devoxx4kids.org/
+https://172.25.122.54/nuage/api/V4_0/domaintemplates/25c84262-be3a-41ef-ab3f-54cbb5772104/ 
+
+https://spring.io/guides/tutorials/bookmarks/
+http://websystique.com/spring-security/angularjs-basic-authentication-using-spring-security/
+http://presos.dsyer.com/decks/spring-security-angular.html
+http://www.sanfoundry.com/java-programming-examples-data-structures/
+http://www.javawithus.com/tutorial/array-of-objects
+https://martinfowler.com/articles/richardsonMaturityModel.html
+
+http://javabeat.net
+http://viralpatel.net/blogs/spring-3-mvc-create-hello-world-application-spring-3-mvc/
+http://jxplorer.org/
+
+https://microservicesradar.wordpress.com/2017/09/19/what-is-the-richardson-maturity-model/
+https://12factor.net/
+https://www.infoq.com/podcasts/sachin-kulkarni-facebook-live?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage
+
+https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes
+http://www.devx.com/enterprise/creating-a-serverless-api-using-api-gateway-and-lambda.html
+
+Books to buy next month
+
+Patterns of Enterprise Application Architecture - Martin Fowler,
+Refactoring: Improving the Design of Existing Code - Martin Fowler, Kent Beck
+
+SHA256:V1gwrv7eEvsz9g1jg272amGU53Wb5LRXKWF9QGaAbbw - Github SSH Key
+
+
+The Claim ID Generated Is : W1257435 
+
+
+\\BLTACCELLO\Shared Drive\DNS
+9503472220 - manas
