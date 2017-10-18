@@ -53,6 +53,8 @@ https://www.infoq.com/podcasts/sachin-kulkarni-facebook-live?utm_source=infoq&ut
 https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes
 http://www.devx.com/enterprise/creating-a-serverless-api-using-api-gateway-and-lambda.html
 
+http://www.adeveloperdiary.com/java/spring-boot/create-restful-webservices-using-spring-boot/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
