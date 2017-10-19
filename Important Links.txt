@@ -60,6 +60,8 @@ Install Software in case of any STS gets any error using this link
 Eclipse-> Help -> Install New Software
 http://download.springsource.com/release/TOOLS/update/e4.6
 
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
