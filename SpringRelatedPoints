@@ -11,16 +11,23 @@ https://docs.spring.io/spring-security/site/docs/3.0.x/reference/anonymous.html
 @RequestParam
 
   1. One of the way to sending data from the Browser to the Server. Using @RequestParam or request parameter to send the data
-
   For Example: http://localhost:8080/rest/student/add?name=SteveJobs&subject=AppleComputers
 
 @RequestBody
 
 1. Another way is @RequestBody generally this annotation is used for updating any details. We will pass JSON Object, Spring will use 
-Jackson to map that respective defined class automatically
+Jackson to map that respective defined class automatically.
 
 code snippet : @RequestBody Student student object
 
+We need to set the Content-Type to application/json and Send the JSON as the request body.
+
 @PathVariable
+
+Another way is send the data as part of the URL itself. Spring provides @PathVariable annotation for this. Generally we will
+use this delete any details
+
+For example: http://localhost:8080/rest/student/delete/{id}
+
 
 
