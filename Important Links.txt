@@ -55,6 +55,8 @@ http://www.devx.com/enterprise/creating-a-serverless-api-using-api-gateway-and-l
 
 http://www.adeveloperdiary.com/java/spring-boot/create-restful-webservices-using-spring-boot/
 
+http://www.adeveloperdiary.com/java/spring-boot/develop-microservices-using-netflix-oss-spring-boot/#more-717
+
 Install Software in case of any STS gets any error using this link 
 
 Eclipse-> Help -> Install New Software
