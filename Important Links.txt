@@ -64,6 +64,9 @@ http://download.springsource.com/release/TOOLS/update/e4.6
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html
 
+To install ISO file without burning the CD/DVD
+https://blogs.technet.microsoft.com/odsupport/2011/04/19/how-to-extract-the-contents-from-an-iso-file-without-burning-the-iso-to-disc/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
