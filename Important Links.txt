@@ -68,6 +68,8 @@ To install ISO file without burning the CD/DVD
 https://blogs.technet.microsoft.com/odsupport/2011/04/19/how-to-extract-the-contents-from-an-iso-file-without-burning-the-iso-to-disc/
 http://pismotec.com/download/
 
+Google Webdev libraries: https://developers.google.com/speed/libraries/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
