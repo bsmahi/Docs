@@ -70,6 +70,9 @@ http://pismotec.com/download/
 
 Google Webdev libraries: https://developers.google.com/speed/libraries/
 
+https://samerabdelkafi.wordpress.com/2015/01/25/angularjs/
+https://samerabdelkafi.wordpress.com/2016/01/25/secure-angularjs-application-with-spring-security/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
