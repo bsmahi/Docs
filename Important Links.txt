@@ -76,6 +76,7 @@ https://samerabdelkafi.wordpress.com/2016/01/25/secure-angularjs-application-wit
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
 http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
 https://www.javacodegeeks.com/2015/01/web-app-architecture-the-spring-mvc-angularjs-stack.html
+https://blog.angular-university.io/developing-a-modern-java-8-web-app-with-spring-mvc-and-angularjs/
 
 Books to buy next month
 
