@@ -83,6 +83,8 @@ https://www.eclipse.org/community/eclipse_newsletter/2016/may/article3.php
 
 E2E testing framework for Angular: http://www.protractortest.org/#/
 
+Angular IDE - https://jaxenter.com/angular-ide-for-web-in-eclipse-132315.html
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
