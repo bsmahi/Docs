@@ -85,6 +85,7 @@ E2E testing framework for Angular: http://www.protractortest.org/#/
 
 Angular IDE - https://jaxenter.com/angular-ide-for-web-in-eclipse-132315.html
 https://medium.com/@julyseven2002/how-to-install-angular-2-using-cli-on-windows-7-machine-e328199f4e5a
+https://hassantariqblog.wordpress.com/category/front-end-goodies/angular2/
 
 Books to buy next month
 
