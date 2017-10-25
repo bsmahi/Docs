@@ -78,6 +78,11 @@ http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
 https://www.javacodegeeks.com/2015/01/web-app-architecture-the-spring-mvc-angularjs-stack.html
 https://blog.angular-university.io/developing-a-modern-java-8-web-app-with-spring-mvc-and-angularjs/
 
+Node.js configuration in eclipse:
+https://www.eclipse.org/community/eclipse_newsletter/2016/may/article3.php
+
+E2E testing framework for Angular: http://www.protractortest.org/#/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
