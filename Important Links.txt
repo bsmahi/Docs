@@ -91,6 +91,7 @@ https://hassantariqblog.wordpress.com/category/front-end-goodies/angular2/
 http://editorconfig.org/
 
 http://blog.lishman.com/
+https://docs.npmjs.com/misc/scripts
 
 Books to buy next month
 
