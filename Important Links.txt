@@ -93,6 +93,8 @@ http://editorconfig.org/
 http://blog.lishman.com/
 https://docs.npmjs.com/misc/scripts
 
+All about Angular and WebFramework: https://www.dev6.com/taxonomy/term/10
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
