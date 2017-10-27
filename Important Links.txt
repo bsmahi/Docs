@@ -96,6 +96,7 @@ https://docs.npmjs.com/misc/scripts
 All about Angular and WebFramework: https://www.dev6.com/taxonomy/term/10
 
 http://javasampleapproach.com/angular-tutorial
+https://www.developer.com/java/
 
 Books to buy next month
 
