@@ -95,6 +95,8 @@ https://docs.npmjs.com/misc/scripts
 
 All about Angular and WebFramework: https://www.dev6.com/taxonomy/term/10
 
+http://javasampleapproach.com/angular-tutorial
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
