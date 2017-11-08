@@ -100,6 +100,8 @@ https://www.developer.com/java/
 https://www.dineshonjava.com/spring-security-tutorial-using-spring-boot/
 Angular IDE --https://www.genuitec.com/products/angular-ide/
 
+Solution Architect Role - https://javainsider.wordpress.com/2013/05/15/solutions-architect-an-overview/
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
