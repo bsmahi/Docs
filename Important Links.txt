@@ -110,6 +110,7 @@ Design Patterns - https://refactoring.guru/design-patterns/catalog
 https://jeffclayton.wordpress.com/category/programming/
 
 https://sourcemaking.com/design_patterns
+https://msdn.microsoft.com/en-in/library/ee658098.aspx
 
 Books to buy next month
 
