@@ -1,4 +1,34 @@
-Catalog of Design Patterns
+2. Write about Description of Design Patterns?
+
+When the central elements a design are abstracted from a particular solution and found to apply to a number of different solutions, 
+we have a design pattern. While patterns in designs can be observed in many domains - from building architecture to object-oriented programming - 
+the Open Source Design Pattern Library will initially focus on user experience patterns. 
+A design pattern usually arises through a combination of creativity and discovery. They are sometimes seen to appear in the wild: a design is observed to have a wider application than its existing implementation, and someone records a description of it in general terms.
+
+Formally, the term "design pattern" has been defined as a proven solution to a common problem within a specified context. Let's explore the details of this definition.
+Here, the word proven means "tested or tried", with implications of trustworthiness and reliability. A design pattern is proven through assessment by design experts, and demonstrations that effective designs can be derived from it.
+The word common in our definition simply means "recurring". Design patterns address problems that occur over and over.
+Specified context also deserves some explanation. The context description tells us where the pattern works and where it doesn't. When a designer seeks guidance from a design pattern, she must match the context of the problem she is trying to solve with the range of contexts in which the pattern has been shown to be useful.
+
+Elements of a Design Pattern
+The core elements of a design pattern are:
+Statements of the problem it addresses, and the offered solution.
+The scope of a pattern's usefulness is outlined the context description - the situations in which the pattern leads to workable results.
+User interface patterns also include visual examples of how implementations based on the pattern will appear to the user.
+Context Outline
+The context outline describes the set of contexts in which the pattern is effective in responding to what the user needs. It may also indicate situations where the pattern is not a useful guide for the creation of designs.
+Problem Statement
+The problem statement is an expression of what the user needs to do, perceive, or understand.
+Solution
+The solution statement explains how the user's problem is solved through a clear and understandable set of steps and perceptions. Solutions are often expressed through strong visual metaphors which help the user understand the process taking place.
+
+The design pattern centres on the user's problem, and how it may occur in a variety of circumstances. The pattern provides a solution outline that employs well-established design principles. It is a model on which a designer can base solutions to specific cases of the problem.
+
+The designer makes design choices within the guidelines set by the design pattern. These are influenced by information that brings specificity to the problem. There will be personas that describe the user's likely intentions and desires as well as use cases that describe the user's objectives. All these serve to limit the scope of the problem to the application context, which should always be compatible with the design pattern context. The design description is user-focused, centring on the user's behaviour in interaction with the service.
+
+A specification is a precise description of the behaviour of the service in its interactions with the user. Once a specification has been set, there are no user-perceptible design choices left to be made. To put this another way, a specification carries sufficient design information that different implementations – by different implementers – are behaviourally indistinguishable to the user.
+
+3. Write about Catalog of Design Patterns
 
 Design patterns divided into 3 categories.
 
