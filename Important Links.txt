@@ -115,6 +115,8 @@ https://msdn.microsoft.com/en-in/library/ee658098.aspx
 Spring Boot with Microservices
 https://www.infoq.com/articles/boot-microservices
 
+https://msdn.microsoft.com/en-in/library/ee658098.aspx
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
