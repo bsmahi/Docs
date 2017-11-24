@@ -117,6 +117,8 @@ https://www.infoq.com/articles/boot-microservices
 
 Software Architecture: https://msdn.microsoft.com/en-in/library/ee658098.aspx
 
+Java Puzzles: http://www.sarmaroof.com
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
