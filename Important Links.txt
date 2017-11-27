@@ -121,6 +121,7 @@ Java Puzzles: http://www.sarmaroof.com
 http://www.codingpedia.org/aredko/osgi-the-gateway-into-micro-services-architecture/
 
 Java Collection Cheat Sheet - https://zeroturnaround.com/wp-content/uploads/2016/04/Java-Collections-cheat-sheet.png
+http://www.speakingcs.com/2015/06/how-to-sort-hashmap-based-on-values-in.html
 
 Books to buy next month
 
