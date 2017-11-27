@@ -120,6 +120,8 @@ Software Architecture: https://msdn.microsoft.com/en-in/library/ee658098.aspx
 Java Puzzles: http://www.sarmaroof.com
 http://www.codingpedia.org/aredko/osgi-the-gateway-into-micro-services-architecture/
 
+Java Collection Cheat Sheet - https://zeroturnaround.com/wp-content/uploads/2016/04/Java-Collections-cheat-sheet.png
+
 Books to buy next month
 
 Patterns of Enterprise Application Architecture - Martin Fowler,
