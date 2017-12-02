@@ -1,3 +1,5 @@
+https://dzone.com/articles/build-rest-web-service-using-spring
+
 http://blog.sonatype.com/2009/04/how-to-convert-from-ant-to-maven-in-5-minutes/
 
 https://zeroturnaround.com/rebellabs/java-build-tools-part-2-a-decision-makers-comparison-of-maven-gradle-and-ant-ivy/
