@@ -284,3 +284,4 @@ https://www.geeksforgeeks.org/annotations-in-java/
 https://introspected.rest/
 https://www.xoriant.com/blog/product-engineering/microservices-security-using-jwt-authentication-gateway.html
 
+https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
