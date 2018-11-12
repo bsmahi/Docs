@@ -285,3 +285,4 @@ https://introspected.rest/
 https://www.xoriant.com/blog/product-engineering/microservices-security-using-jwt-authentication-gateway.html
 
 https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85
+https://medium.com/@darutk/new-architecture-of-oauth-2-0-and-openid-connect-implementation-18f408f9338d
