@@ -289,3 +289,5 @@ https://medium.com/@darutk/new-architecture-of-oauth-2-0-and-openid-connect-impl
 https://jugbd.org/2017/09/29/5-steps-deploy-spring-boot-application-using-docker/
 
 https://disqus.com
+
+https://www.ivankrizsan.se/2016/06/09/create-a-private-docker-registry/
