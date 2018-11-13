@@ -291,3 +291,4 @@ https://jugbd.org/2017/09/29/5-steps-deploy-spring-boot-application-using-docker
 https://disqus.com
 
 https://www.ivankrizsan.se/2016/06/09/create-a-private-docker-registry/
+https://www.rubix.nl/blogs/using-nexus-oss-proxycache-docker-images
