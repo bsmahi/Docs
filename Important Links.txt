@@ -295,3 +295,4 @@ https://www.rubix.nl/blogs/using-nexus-oss-proxycache-docker-images
 https://stackoverflow.com/questions/41108044/docker-registry-vs-nexus-artifactory
 https://www.youtube.com/watch?v=X0tjziAQfNQ&feature=youtu.be
 https://javarevisited.blogspot.com/2018/01/how-http-basic-authentication-works-in.html
+https://javarevisited.blogspot.com/2016/01/why-jpa-entity-or-hibernate-persistence-should-not-be-final-in-java.html#at_pco=smlwn-1.0&at_si=5bee9691fb169544&at_ab=per-2&at_pos=0&at_tot=1
