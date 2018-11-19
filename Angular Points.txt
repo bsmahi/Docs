@@ -9,3 +9,17 @@ The ngOnInit is a lifecycle hook. Angular calls ngOnInit shortly after creating 
 Always export the component class so you can import it elsewhere.. like in the AppModule.
 
 Interpolation binding we can do either with upper or lower case right after the pipe operator(|), activates the built-in UppercasePipe.
+
+[(ngModel)] is Angular's two-way data binding syntax. ngModel is a valid Angular directive, it isn't available by default. It belongs to the optional FormsModule and you must opt-in to using it.
+
+Angular needs to know how the pieces of your application fit together and what other files and libraries the app requires. This information is called metadata.
+Some of the metadata is in the @Component decorators that you added to your component classes. Other critical metadata is in @NgModule decorators. 
+The most important @NgModule decorator annotates the top-level AppModule class.
+Every component must be declared in exactly one NgModule.
+
+The *ngFor is Angular's repeater directive. It repeats the host element for each element in a list.
+@Input property - template binds to the component's parent property which is of type Parent.
+The two components will have a parent/child relationship. The parent component will control the child component by sending it a new
+to display whenever the we select element in parent component.
+
+@Input decorator to make the any property available for binding by the external or child component.
