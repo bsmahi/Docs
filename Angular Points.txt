@@ -3,6 +3,8 @@
    - selector - the component's CSS element selector
    - templateUrl - the location of the component's template file.
    - styleUrls - the location of the component's private CSS styles.
+ 
+Components shouldn't fetch or save data directly and they certainly shouldn't knowingly present fake data. It primarily resposibility is to focus on presenting data and delegate data access to a service.
    
 The ngOnInit is a lifecycle hook. Angular calls ngOnInit shortly after creating a component. It's a good place to put initialization logic.
 
@@ -23,3 +25,7 @@ The two components will have a parent/child relationship. The parent component w
 to display whenever the we select element in parent component.
 
 @Input decorator to make the any property available for binding by the external or child component.
+
+Services are a great way to share information among classes that don't know each other.
+@Injectable decorator which marks the class as one that participates in the dependency injections system. Any service class is going to provide an injectable service, and it can alo have its own injected dependencies. 
+@Injectable() decorator accepts a metadata object for the service, the same way the @Component() decorator for component classes.
