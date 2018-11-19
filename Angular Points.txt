@@ -1,0 +1,11 @@
+@Component is a decorator function that specifies the Angular metadata for the component and has three metadata properties
+
+   - selector - the component's CSS element selector
+   - templateUrl - the location of the component's template file.
+   - styleUrls - the location of the component's private CSS styles.
+   
+The ngOnInit is a lifecycle hook. Angular calls ngOnInit shortly after creating a component. It's a good place to put initialization logic.
+
+Always export the component class so you can import it elsewhere.. like in the AppModule.
+
+Interpolation binding we can do either with upper or lower case right after the pipe operator(|), activates the built-in UppercasePipe.
