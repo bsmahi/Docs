@@ -29,3 +29,7 @@ to display whenever the we select element in parent component.
 Services are a great way to share information among classes that don't know each other.
 @Injectable decorator which marks the class as one that participates in the dependency injections system. Any service class is going to provide an injectable service, and it can alo have its own injected dependencies. 
 @Injectable() decorator accepts a metadata object for the service, the same way the @Component() decorator for component classes.
+
+We must make the Service available to the dependency injection system before Angular can inject it into the Component. We can do this by registering a provider. 
+
+A provider is something that can create or deliver a service; We are registering it with an injector, which is the object that is responsible for choosing and injecting the provider where it is required.
