@@ -1,0 +1,16 @@
+Enterprise Integration Pattern
+
+Integration: 
+
+1. Different Systems working together.
+2. Different Programming Languages.
+3. Different Message Formats.
+
+Different software has different formats
+1. XML, JSON, etc
+2. Routing can modify one XML message to look like another.
+
+Point to point connection 
+ -- Each time you add a point, you have to connect it to all other points. Expensive
+Hub and spoke 
+ -- Each new point simply requires a gateway to transform it to a canonical model.
