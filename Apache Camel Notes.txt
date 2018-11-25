@@ -6,6 +6,8 @@ Integration:
 2. Different Programming Languages.
 3. Different Message Formats.
 
+We can do inline transformer.
+
 Different software has different formats
 1. XML, JSON, etc
 2. Routing can modify one XML message to look like another.
@@ -14,3 +16,23 @@ Point to point connection
  -- Each time you add a point, you have to connect it to all other points. Expensive
 Hub and spoke 
  -- Each new point simply requires a gateway to transform it to a canonical model.
+
+
+Enterprise Integration Terms
+1. Microservices
+2. Message
+3. Message Router
+    -- Routing: filter, splitter, aggregator
+4. Transformation
+5. Pipes and Filters
+6. Point to Point: Queue
+7. Publish Subscribe: Topic
+
+Sources and Destinations
+
+1. Queues and Topics
+2. File Systems
+3. Webservices
+4. Email
+5. Database/Hibernate
+6. Many more..
