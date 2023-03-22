@@ -38,39 +38,29 @@ Design patterns divided into 3 categories.
 
 1. Creational Design Patterns
 
-  -- Which is responsible for efficient object creation mechanisms, which increase the flexibility and reuse of existing code.
+ Which is responsible for efficient object creation mechanisms, which increase the flexibility and reuse of existing code.
 
-Creational Design Patterns is divided into 5 types
-1.1 Factory Method 
+1. Creational Design Patterns is divided into 5 types
+* Factory Method 
 		 
-		 Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. 
-		  The Factory Method pattern suggests replacing direct object creation (using a new operator ) with a call to a special "factory" method.  Objects returned by factory methods are often referred to as
-		  "products".
+Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. The Factory Method pattern suggests replacing direct object creation (using a new operator ) with a call to a special "factory" method.  Objects returned by factory methods are often referred to as "products".
 		  
-1. 2. Abstract Factory
+* Abstract Factory
             
-			Provide an interface for creating families of related or dependent objects without specifying their concrete classes.  
-			First thing that Abstract Factory pattern suggests is to go over all distinct products and  force their variants to follow common interfaces. 
-			The second step is to create the AbstractFactory, a base interface that declares methods for creating all products that make a product family.
-			The third step is to implement concrete factories. Factories are classes that return products of a particular kind. All factories must follow the 
-			AbstractFactory interface while creating the same variety of products. AbstractFactory classes are often implemented with Factory Methods, but they can also be 
-			implemented using prototype.
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes. First thing that Abstract Factory pattern suggests is to go over all distinct products and  force their variants to follow common interfaces. The second step is to create the AbstractFactory, a base interface that declares methods for creating all products that make a product family. The third step is to implement concrete factories. Factories are classes that return products of a particular kind. All factories must follow the AbstractFactory interface while creating the same variety of products. AbstractFactory classes are often implemented with Factory Methods, but they can also be implemented using prototype.
 			
-1. 3. Builder
+* Builder
       
-	     Builder Pattern separate the construction of a complex object from its representation so that the same construction process can create different representations.
+Builder Pattern separate the construction of a complex object from its representation so that the same construction process can create different representations.
    
-1. 4. Prototype
+* Prototype
     
-	   Prototype is a creational design pattern that lets you produce new objects by copying existing ones without compromising their internals. It delegates cloning process to objects themselves.
-	   It can help when you need to save copy of the command into history.
+Prototype is a creational design pattern that lets you produce new objects by copying existing ones without compromising their internals. It delegates cloning process to objects themselves. It can help when you need to save copy of the command into history.
 	   
-1. 5. Singleton
+* Singleton
       
-	   Singleton is a creational  design pattern that lets you ensure that a class has only one instance and provide a global access point to this instance. 
-	   It solves two problems at the time (violating Single Responsiblity Principle). 1. Ensures that a class has only a single instance.
-	   2. Provides global access point to that instance.
-	   
+Singleton is a creational  design pattern that lets you ensure that a class has only one instance and provide a global access point to this instance. It solves two problems at the time (violating Single Responsiblity Principle). 1. Ensures that a class has only a single instance.
+2. Provides global access point to that instance.
 	   All singleton implementations share two common steps: 
 	   1. Making the default constructor private
 	   2. Creating a static creation method that will act as a constructor. This method creates an object using the private constructor and saves it in static variable or field. 
