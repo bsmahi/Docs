@@ -21,4 +21,4 @@
 * We must incorporate `Resilience4j` core modules to handle resilience. 
 * We must interact with `@RestControllerAdvice` utilising custom exception handling for exception handling.
 * We must implement logging, monitoring/metrics using tools `prometheus, zipkin, and micrometer`.
-* Let's externalize mysql as docker image used in docker compose.
+* Let's externalize mysql as docker image define in `docker-compose`.
