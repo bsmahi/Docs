@@ -1,4 +1,6 @@
-# Java Trends
+# Q1: What new Topics would add value to these existing courses?
+
+## Java Trends
 - JDK 11-15 Features with an examples
 - JDK 16-20 Features with an examples
 - JDK 21 Features with an examples
@@ -56,3 +58,29 @@ https://www.infoq.com/news/2023/11/java-news-roundup-nov13-2023/
 - Containerization with the latest features
 - Service and Data Mesh
 - Artificial Intelligence
+
+# Q2: What new courses do you think we should create?
+
+## Programming
+- Kotlin
+- Quarkus
+- Micronaut
+- Rust
+- Go
+- New JavaScript Frameworks
+
+## Cloud
+- Enhancements to existing cloud courses with the latest features
+- Oracle Cloud
+
+## DevOps
+
+- Podman
+- Github Actions
+
+## Misc
+- Introdution to AWS Codewhisper
+- Introduction to AWS Bedrock
+- Introduction to Amazon Q
+- Introdcution to Azure OpenAI Service
+
