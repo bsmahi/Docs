@@ -3,8 +3,28 @@
 - JDK 11-15 Features with an examples
 - JDK 16-20 Features with an examples
 - JDK 21 Features with an examples
+   - Virtual Threads
+   - Structured Concurrency
+   - Unnamed Classes
+   - Instance Main Methods
+   - Records
+   - Pattern Matching
+   - String Templates
+   - Sealed Classes
+   - Text Blocks
+   - Switch Expressions
+- New Api's Introduced
+- Discuss about jwebserver, jshell
+- Performance Improvement Related Changes
+- Java Library Changes
+- G1 Garbage Collector Changes
+- Latest Diagnostic and Tools
+- Java Security Improvements
 - Virtual Treads Frameworks (Helidon Nima and Vert.x)
-- Fast JVM Startup(CRaC)
+- Fast JVM Startup(Coordinated Restore at Checkpoint(CRaC))
 - OpenJFX
 - Jakarta EE 10
 - Java on ARM
+- [Project Galahad](https://openjdk.org/projects/galahad/) - Java-related GraalVM technology
+- Generative AI in the Java Space(Frameworks like Semantic Kernel, Deeplearning4j, djl, and Tribuo)
+- 
