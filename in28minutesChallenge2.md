@@ -34,6 +34,7 @@
 - [Project Galahad](https://openjdk.org/projects/galahad/) - Java-related GraalVM technology
 - Generative AI in the Java Space(Frameworks like Semantic Kernel, Deeplearning4j, djl, and Tribuo)
 
+
 https://www.infoq.com/news/2023/11/java-news-roundup-nov13-2023/
 
 # JavaEE and Jakarta EE
@@ -58,6 +59,7 @@ https://www.infoq.com/news/2023/11/java-news-roundup-nov13-2023/
 - Containerization with the latest features
 - Service and Data Mesh
 - Artificial Intelligence
+- Micro Frontends For Java Microservices
 
 # Q2: What new courses do you think we should create?
 
